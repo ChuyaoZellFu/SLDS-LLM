@@ -1,0 +1,257 @@
+{
+  "results": [
+    {
+      "content": " 又臭又长，笑点刻意",
+      "true_label": "消极",
+      "pred_label": "积极",
+      "correct": false
+    },
+    {
+      "content": " 国产剧的节奏",
+      "true_label": "消极",
+      "pred_label": " 国产剧的节奏和节目安排\nThe pace and program arrangement",
+      "correct": false
+    },
+    {
+      "content": " 三星给了斯蒂芬周，两星给了孙悟空",
+      "true_label": "积极",
+      "pred_label": " 三星给了斯蒂芬周，两星给了孙悟空，为什么？\n因为三星的意思是“",
+      "correct": false
+    },
+    {
+      "content": " 一万年太久，只争朝夕。明明是很欢喜的很闹腾的片子，却充斥着悲剧的味道",
+      "true_label": "积极",
+      "pred_label": " 一万年太久，只争朝夕。明明是很欢喜的很闹腾的片子，却充斥着悲剧的味道。\n\n\n# 2021-02-26",
+      "correct": false
+    },
+    {
+      "content": " 为什么不能给0分",
+      "true_label": "消极",
+      "pred_label": " 为什么不能给0分？\n\n\n\n因为您没有登录账户，所以无法",
+      "correct": false
+    },
+    {
+      "content": " 支持国货 尤其良心国货",
+      "true_label": "积极",
+      "pred_label": " 支持国货 尤其良心国货\n# 支持国货 # 良心国",
+      "correct": false
+    },
+    {
+      "content": " 略",
+      "true_label": "消极",
+      "pred_label": " 略过\n 1.  1. ",
+      "correct": false
+    },
+    {
+      "content": " 想给一星的",
+      "true_label": "消极",
+      "pred_label": " 想给一星的原因是，虽然这个app有很多功能，但是",
+      "correct": false
+    },
+    {
+      "content": " 只是看过预告就被其音乐与色彩画面吸引住了！俩八零后的理工生说了一个九零后的世界观的故事！音乐画面还真的很不错其他却是很尴尬",
+      "true_label": "消极",
+      "pred_label": " 只是看过预告就被其音乐与色彩画面吸引住了！俩八零后的理工生说了一个九零后的世界观的故事！音乐画面还真的很不错其他却是很尴尬的。总之，值得一看。",
+      "correct": false
+    },
+    {
+      "content": " 3星，星爷面子加1星。不怎么搞笑，剧情编剧是硬伤，感觉电影什么时候开始插入看都不影响。。。最大的吐槽是，你妈文章舒淇两个人就见个面就能爱得死来活去的？咋就没妹子见我就爱上我了呢？最后最后 ，猴子造型实在太穷矮矬了，你妈悟空在心目中的威武形象呢？！",
+      "true_label": "积极",
+      "pred_label": "消极",
+      "correct": false
+    },
+    {
+      "content": " 一星给黄渤 ···",
+      "true_label": "消极",
+      "pred_label": "消极",
+      "correct": true
+    },
+    {
+      "content": " 很棒！！！",
+      "true_label": "积极",
+      "pred_label": " 很棒！！！\n\n\n\n```python\n# 1. 请",
+      "correct": false
+    },
+    {
+      "content": " 一星给画面，一星给松子哥",
+      "true_label": "消极",
+      "pred_label": " 一星给画面，一星给松子哥的台词，一星给剧情。总",
+      "correct": false
+    },
+    {
+      "content": " 特效很赞，可以说是目前华语电影首屈一指的 很逼真 剧情是硬伤 唐嫣的表现有惊喜 戏份不多 不过有进步",
+      "true_label": "消极",
+      "pred_label": " 特效很赞，可以说是目前华语电影首屈一指的 很逼真 剧情是硬伤 唐嫣的表现有惊喜 戏份不多 不过有进步的趋势\n#电影 #唐�",
+      "correct": false
+    },
+    {
+      "content": " 李晨演的馆长其实是王子墓的首领人？光头的造型也挺有范儿嘛。",
+      "true_label": "积极",
+      "pred_label": " 李晨演的馆长其实是王子墓的首领人？光头的造型也挺有范儿嘛。 # 李晨 # 王子墓 # 馆",
+      "correct": false
+    },
+    {
+      "content": " 好笑",
+      "true_label": "消极",
+      "pred_label": " 好笑\n1. (adverb) very funny;",
+      "correct": false
+    },
+    {
+      "content": " 其实还是多好看的",
+      "true_label": "积极",
+      "pred_label": " 其实还是多好看的，很是喜欢。\n\n\n# 2021",
+      "correct": false
+    },
+    {
+      "content": " 我骄傲  我自豪",
+      "true_label": "积极",
+      "pred_label": " 我骄傲  我自豪  我是中国人\n\n我是中国人",
+      "correct": false
+    },
+    {
+      "content": " 哈哈哈哈愉快的上午这电影还可以耶原本准备打发时间的没想到还挺不错的=￣ω￣=",
+      "true_label": "消极",
+      "pred_label": "消极",
+      "correct": true
+    },
+    {
+      "content": " 文章和舒淇都好一般，黄渤一如既往的好",
+      "true_label": "消极",
+      "pred_label": " 文章和舒淇都好一般，黄渤一如既往的好笑。  (The article and Shu Qi",
+      "correct": false
+    },
+    {
+      "content": " 感觉像是被塞了一嘴包着糖衣的shi",
+      "true_label": "消极",
+      "pred_label": " 感觉像是被塞了一嘴包着糖衣的shi\n# 1\n# 2\n#",
+      "correct": false
+    },
+    {
+      "content": " 凄美的故事，大体都是牺牲自我成全想保护的人",
+      "true_label": "积极",
+      "pred_label": " 凄美的故事，大体都是牺牲自我成全想保护的人。\n\n\n这句话的意思是指，许多",
+      "correct": false
+    },
+    {
+      "content": " 如果有这么肆意妄为，以打架为理由公然破坏人民财产，对非超能力者生命视若蚂蚁的人，那么，可以建议毫不犹豫的毁了他。",
+      "true_label": "消极",
+      "pred_label": " 如果有这么肆意妄为，以打架为理由公然破坏人民财产，对非超能力者生命视若蚂蚁的人，那么，可以建议毫不犹豫的毁了他。\n\n\n如果他是出于无知或是",
+      "correct": false
+    },
+    {
+      "content": " 豆瓣的评论够多了，我只想说句：蚁人我要给你生个逗比猴！！！😂",
+      "true_label": "积极",
+      "pred_label": "消极",
+      "correct": false
+    },
+    {
+      "content": " 剧情比较简单，感觉有点累赘，蜘蛛侠的加入倒给动作场面加了分……",
+      "true_label": "积极",
+      "pred_label": " 剧情比较简单，感觉有点累赘，蜘蛛侠的加入倒给动作场面加了分……\n总的来说，电影表现一般，值",
+      "correct": false
+    },
+    {
+      "content": " 本命",
+      "true_label": "积极",
+      "pred_label": " 本命题的解释如下:\n\n1. 该",
+      "correct": false
+    },
+    {
+      "content": " 盛名之下，其实难副",
+      "true_label": "消极",
+      "pred_label": " 盛名之下，其实难副\n--------------------\n\n### Top 10\n\n1.",
+      "correct": false
+    },
+    {
+      "content": " 话本里的猴子传唱了五百年，祖祖辈辈我们都在被他打动。自先秦起数千年了，山海经里的百鬼山川影响了整片亚洲大陆，但如今还有几人识得混沌饕餮穷奇梼杌。是时候了，也该让我们的故事，去惊艳四座，令人拍案称奇了。",
+      "true_label": "积极",
+      "pred_label": " 话本里的猴子传唱了五百年，祖祖辈辈我们都在被他打动。自先秦起数千年了，山海经里的百鬼山川影响了整片亚洲大陆，但如今还有几人识得混沌饕餮穷奇梼杌。是时候了，也该让我们的故事，去惊艳四座，令人拍案称奇了。\n\n\n这篇文章是对传统中国文化",
+      "correct": false
+    },
+    {
+      "content": " 剧情。。。",
+      "true_label": "消极",
+      "pred_label": " 剧情。。。\n\n\n在一个遥远的未来，人类",
+      "correct": false
+    },
+    {
+      "content": " 画面大部分制作精良看着很美很享受，虽剧情有太多大洞以及对白也有无厘头的地方，生性敏感泪点低的我还是哭了。",
+      "true_label": "消极",
+      "pred_label": " 画面大部分制作精良看着很美很享受，虽剧情有太多大洞以及对白也有无厘头的地方，生性敏感泪点低的我还是哭了。\n\n\n这部电影的画面和音乐真的",
+      "correct": false
+    },
+    {
+      "content": " 钢铁侠镜头太少!!!差评!!!",
+      "true_label": "积极",
+      "pred_label": " 钢铁侠镜头太少!!!差评!!! - 评分: 2/5\n",
+      "correct": false
+    },
+    {
+      "content": " 英雄式情節電影，一個囂張跋扈的自大狂，在經歷生死關頭後，變得更臭屁，話說有錢有才能，才有設備打早出更好得英雄裝備",
+      "true_label": "消极",
+      "pred_label": " 英雄式情節電影，一個囂張跋扈的自大狂，在經歷生死關頭後，變得更臭屁，話說有錢有才能，才有設備打早出更好得英雄裝備，才有資源打造更強大的",
+      "correct": false
+    },
+    {
+      "content": " 这种电影给8.5，豆瓣也就这样了~",
+      "true_label": "消极",
+      "pred_label": " 这种电影给8.5，豆瓣也就这样了~！ #电影 #评分 #8.5",
+      "correct": false
+    },
+    {
+      "content": " 陆川，你太恶心人了！你不会讲故事！你看过鬼吹灯吗？你毁了我的鬼吹灯你造吗？赵又廷！你不是胡八一。你丫不是胡八一！我真想见你们一面，真的。给你俩一大耳雷子都不过分！ps：李晨，其实你是和尚对不？",
+      "true_label": "消极",
+      "pred_label": "积极",
+      "correct": false
+    },
+    {
+      "content": " 一万年太久……",
+      "true_label": "积极",
+      "pred_label": " 一万年太久……\n# 1\n# 2\n#",
+      "correct": false
+    },
+    {
+      "content": " 恶意满满贯穿始终的屌丝思维，标签化人物和粗糙的表演，笑点全靠抖机灵的加长版二人转，以及那个自以为是happy ending的恶心结尾，庆幸自己没有去电影院当傻多速！",
+      "true_label": "消极",
+      "pred_label": "消极",
+      "correct": true
+    },
+    {
+      "content": " 费力不讨好呀",
+      "true_label": "消极",
+      "pred_label": "消极",
+      "correct": true
+    },
+    {
+      "content": " 全程都很硬！",
+      "true_label": "积极",
+      "pred_label": " 全程都很硬！很喜欢这首歌曲，歌词很",
+      "correct": false
+    },
+    {
+      "content": " 困死我了",
+      "true_label": "消极",
+      "pred_label": " 困死我了\n我累了\n我累了\n我",
+      "correct": false
+    },
+    {
+      "content": " 虎头蛇尾",
+      "true_label": "消极",
+      "pred_label": " 虎头蛇尾的句子\n1. 最后一句话",
+      "correct": false
+    },
+    {
+      "content": " 看得出制作很用心，无论细节还是3d效果都很棒。其中中国的特色元素运用的恰到好处，好评。汪峰的歌略欠和谐，结尾稍仓促。给制作者点赞，希望中国的好动漫越来越多。",
+      "true_label": "积极",
+      "pred_label": "积极",
+      "correct": true
+    },
+    {
+      "content": " 尼玛怎么也比那人在囧途2强吧。才7.2，各位吃翔了？",
+      "true_label": "积极",
+      "pred_label": " 尼玛怎么也比那人在囧途2强吧。才7.2，各位吃翔了？ #尼玛 #那人在囧途",
+      "correct": false
+    }
+  ],
+  "accuracy": 0.11926342906211239
+}
